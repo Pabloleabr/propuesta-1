@@ -1,26 +1,25 @@
-% Videoclub «Los Pajaritos»
-% Ricardo Pérez
+% Foro de preguntas y ejercicios para programadores «PreguntaPro»
+% Pablo Leal del Ojo Bravo
 % Curso 2021/22
 
 # Descripción general del proyecto
 
-Explicar.
+El proyecto que quiero hacer sería algo como StackOverflow pero con un enfoque más hacia nuestro grado de DIW. 
+Este tendría una página para subir preguntas, ver las respuestas de las personas y poder votar tanto para las preguntas, como para las respuestas, además se subiría también ejercicios para compartir con otros usuarios y cada uno ofrecer su respuesta votando la que más guste al usuario. 
+Este sitio web también podría contener algunas herramientas para testear tus habilidades como test de mecanografía u otra cosa,  guardando tus resultados y pudiendo ver tu avance o puntuación con otros usuarios. Otra opción podría ser hacer un sistema de puntuación donde suba tu puntuación si votan tu respuesta, incentivando al usuario a ayudar a responder las dudas de los demás e intentar tener la mejor solución a los ejercicios. 
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+La Funcionalidad principal es crear un sitio web donde estudiantes como yo y mis compañeros podamos practicar y preguntarnos problemas de programación más enfocados a lo que estamos actualmente estudiando y hacerlo de una manera que sea fácil y entretenida para los usuarios.
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
-
-Por ejemplo:
-
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+* Creación de preguntas y ejercicios
+* Gestión de preguntas y ejercicios
+* Sistema de votación 
+* Gestión de avances del usuario 
+* Gestión putuación del usuario 
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Desarrollo del programa que gestiona el progreso del usuario, creación de test interactivos como el de mecanografía o uso de algun api que aporte tales funciones.
