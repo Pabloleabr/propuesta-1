@@ -4,9 +4,9 @@
 
 # Descripción general del proyecto
 
-El proyecto que quiero hacer sería algo como StackOverflow pero con un enfoque más hacia nuestro grado de DIW. 
-Este tendría una página para subir preguntas, ver las respuestas de las personas y poder votar tanto para las preguntas, como para las respuestas, además se subiría también ejercicios para compartir con otros usuarios y cada uno ofrecer su respuesta votando la que más guste al usuario. 
-Este sitio web también podría contener algunas herramientas para testear tus habilidades como test de mecanografía u otra cosa,  guardando tus resultados y pudiendo ver tu avance o puntuación con otros usuarios. Otra opción podría ser hacer un sistema de puntuación donde suba tu puntuación si votan tu respuesta, incentivando al usuario a ayudar a responder las dudas de los demás e intentar tener la mejor solución a los ejercicios. 
+El proyecto que quiero hacer sería algo como StackOverflow pero con un enfoque más hacia nuestro grado de DIW.  
+Este tendría una página para subir preguntas, ver las respuestas de las personas y poder votar tanto para las preguntas, como para las respuestas, además se subiría también ejercicios para compartir con otros usuarios y cada uno ofrecer su respuesta votando la que más guste al usuario.  
+El sitio web también podría contener algunas herramientas para testear tus habilidades como test de mecanografía u otra cosa,  guardando tus resultados y pudiendo ver tu avance o puntuación con otros usuarios. Otra opción podría ser hacer un sistema de puntuación donde suba tu puntuación si votan tu respuesta, incentivando al usuario a ayudar a responder las dudas de los demás e intentar tener la mejor solución a los ejercicios.  
 
 ## Funcionalidad principal de la aplicación
 
