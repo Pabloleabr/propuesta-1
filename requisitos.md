@@ -86,7 +86,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Usar GitHub Projects o similar para la gestión general del proyecto.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -190,9 +190,9 @@
 | **Entrega**     | v1             |
 
 
-| **R22**     | **Yii2 Framework**         |
+| **R22**     | **Laravel Framework**         |
 | --------------: | :------------------- |
-| **Descripción** | Usar Yii2 Framework versión 2.0.29 ó superior.             |
+| **Descripción** | Usar Laravel Framework versión 8.0 ó superior.             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
@@ -289,18 +289,18 @@
 | **Entrega**     | v2             |
 
 
-| **R33**     | **Uso de microdatos**         |
+| **R33**     | **Wireframes, protoripos, mapa navegación y guía de estilos**         |
 | --------------: | :------------------- |
-| **Descripción** | Uso de microdatos.             |
+| **Descripción** | Uso de Wireframes, protoripos, mapa navegación y guía de estilos para documentar el diseño.             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
+| **Entrega**     | v1             |
 
 
 | **R34**     | **Validación HTML5, CSS3 y accesibilidad**         |
 | --------------: | :------------------- |
-| **Descripción** | Se deberá comprobar que el código realizado supera:  - El validador para HTML5, CSS3. - Nivel de accesibilidad AA. - Prueba del seis.              |
+| **Descripción** | Se deberá comprobar que el código realizado supera:  - El validador para HTML5, CSS3. - Nivel de accesibilidad AA. - Prueba de usabilidad (Hassan Montero y Martín Fernández).Prueba de usabilidad (Hassan Montero y Martín Fernández)..              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Difícil         |
@@ -313,12 +313,12 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Media         |
-| **Entrega**     | v3             |
+| **Entrega**     | v2             |
 
 
 | **R36**     | **Varios navegadores**         |
 | --------------: | :------------------- |
-| **Descripción** | Comprobar que el diseño es correcto en los siguientes navegadores:  - Internet Explorer. - Chrome. - Mozilla Firefox. - Opera.              |
+| **Descripción** | Comprobar que el diseño es correcto en los siguientes navegadores:  - Edge. - Chrome. - Mozilla Firefox. - Opera.              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Difícil         |
@@ -397,7 +397,7 @@
 | **Entrega**     | v3             |
 
 
-| **R45**     | **Tablo de puestos para test de mecanografía **         |
+| **R45**     | **Tabla de puestos para test de mecanografía **         |
 | --------------: | :------------------- |
 | **Descripción** | Una tabla donde los usuarios puedan ver su puntuación comparada con el resto.             |
 | **Prioridad**   | Importante           |
@@ -451,6 +451,96 @@
 | **Entrega**     | v1             |
 
 
+| **R51**     | **Crear Controladores**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de controladores para los ejercicios y las respuestas.              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Dashboard**         |
+| --------------: | :------------------- |
+| **Descripción** | Página inicial para los usuarios registrados donde mostrara sus ejercicios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Rutas**         |
+| --------------: | :------------------- |
+| **Descripción** | Definir las rutas del sitio web             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Barra de navegación**         |
+| --------------: | :------------------- |
+| **Descripción** | Estructurar y implementar la barra de navegación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Clasificación de ejercicios y preguntas por lenguaje y dificultad**         |
+| --------------: | :------------------- |
+| **Descripción** | Clasificación de ejercicios y preguntas por lenguaje y dificultad a la hora de crearlos y buscarlos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Logo**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de logotipo para la página.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R57**     | **Diseño de la base datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Elaborar el diseño de la idea inicial de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Login y registrar**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar login y registrar con laravel             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Consultas para la vista de ejercicios y pregunta**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la consulta en el controlador que me de todos los ejercicios y respuestas buscados con la media de su rating respectivo.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Consulta para las soluciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la consulta para las soluciones con la media de sus rating y ordenadas por puntuación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
 
 ## Cuadro resumen
 
@@ -465,7 +555,7 @@
 | (**R7**) Incidencias en GitHub | Mínimo | Información | Fácil | v1 | 
 | (**R8**) Etiquetas e hitos | Mínimo | Información | Fácil | v1 | 
 | (**R9**) Rama master | Mínimo | Técnico | Fácil | v1 | 
-| (**R10**) Gestión del proyecto | Mínimo | Técnico | Fácil | v1 | 
+| (**R10**) Gestión del proyecto | Mínimo | Información | Fácil | v1 | 
 | (**R11**) Final de cada iteración | Mínimo | Técnico | Fácil | v1 | 
 | (**R12**) Validación de formularios | Mínimo | Técnico | Fácil | v3 | 
 | (**R13**) Gestión de ventanas | Opcional | Técnico | Media | v2 | 
@@ -477,7 +567,7 @@
 | (**R19**) Utilización de AJAX | Mínimo | Técnico | Media | v2 | 
 | (**R20**) ECMAScript2015 (ES6) | Mínimo | Técnico | Fácil | v2 | 
 | (**R21**) PHP | Mínimo | Técnico | Fácil | v1 | 
-| (**R22**) Yii2 Framework | Mínimo | Técnico | Fácil | v1 | 
+| (**R22**) Laravel Framework | Mínimo | Técnico | Fácil | v1 | 
 | (**R23**) PostgreSQL | Mínimo | Técnico | Fácil | v1 | 
 | (**R24**) Heroku | Mínimo | Técnico | Fácil | v1 | 
 | (**R25**) Codeception | Mínimo | Técnico | Fácil | v1 | 
@@ -488,9 +578,9 @@
 | (**R30**) Presentación mediante CSS | Mínimo | Técnico | Fácil | v1 | 
 | (**R31**) Diseño flexible | Mínimo | Técnico | Media | v2 | 
 | (**R32**) Transiciones, transformaciones, animaciones y contenido multimedia | Mínimo | Técnico | Fácil | v2 | 
-| (**R33**) Uso de microdatos | Mínimo | Técnico | Fácil | v3 | 
+| (**R33**) Wireframes, protoripos, mapa navegación y guía de estilos | Mínimo | Técnico | Fácil | v1 | 
 | (**R34**) Validación HTML5, CSS3 y accesibilidad | Mínimo | Técnico | Difícil | v3 | 
-| (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Media | v3 | 
+| (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Media | v2 | 
 | (**R36**) Varios navegadores | Mínimo | Técnico | Difícil | v3 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Media | v3 | 
@@ -500,9 +590,19 @@
 | (**R42**) Crear Ejercicios y preguntas | Importante | Funcional | Media | v1 | 
 | (**R43**) Votar ejercicios y comentarios | Importante | Funcional | Media | v1 | 
 | (**R44**) Test de mecanografía | Opcional | Funcional | Media | v3 | 
-| (**R45**) Tablo de puestos para test de mecanografía  | Importante | Funcional | Media | v3 | 
+| (**R45**) Tabla de puestos para test de mecanografía  | Importante | Funcional | Media | v3 | 
 | (**R46**) Sistema de progresión del usuario | Importante | Funcional | Media | v3 | 
 | (**R47**) Borrar ejercicios | Importante | Funcional | Media | v1 | 
 | (**R48**) API Interprete de código | Opcional | Técnico | Difícil | v3 | 
 | (**R49**) Buscar de ejercicios | Importante | Funcional | Media | v1 | 
 | (**R50**) Página para invitados | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Crear Controladores | Importante | Técnico | Media | v1 | 
+| (**R52**) Dashboard | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Rutas | Importante | Técnico | Fácil | v1 | 
+| (**R54**) Barra de navegación | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Clasificación de ejercicios y preguntas por lenguaje y dificultad | Importante | Funcional | Media | v1 | 
+| (**R56**) Logo | Importante | Técnico | Fácil | v3 | 
+| (**R57**) Diseño de la base datos | Importante | Técnico | Fácil | v1 | 
+| (**R58**) Login y registrar | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Consultas para la vista de ejercicios y pregunta | Importante | Técnico | Media | v1 | 
+| (**R60**) Consulta para las soluciones | Importante | Técnico | Media | v1 | 
