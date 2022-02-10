@@ -145,9 +145,9 @@
 | **Entrega**     | v2             |
 
 
-| **R17**     | **jQuery, jQuery UI**         |
+| **R17**     | **ALPINEJS**         |
 | --------------: | :------------------- |
-| **Descripción** | Uso de la librería jQuery, jQuery UI.             |
+| **Descripción** | Uso de la librería Alpinejs             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
@@ -562,7 +562,7 @@
 | (**R14**) Manejo de eventos | Mínimo | Técnico | Fácil | v1 | 
 | (**R15**) DOM | Mínimo | Técnico | Fácil | v1 | 
 | (**R16**) Almacenamiento en el lado del cliente | Mínimo | Técnico | Fácil | v2 | 
-| (**R17**) jQuery, jQuery UI | Mínimo | Técnico | Fácil | v2 | 
+| (**R17**) ALPINEJS | Mínimo | Técnico | Fácil | v2 | 
 | (**R18**) Plugin no trabajado en clase | Mínimo | Técnico | Fácil | v2 | 
 | (**R19**) Utilización de AJAX | Mínimo | Técnico | Media | v2 | 
 | (**R20**) ECMAScript2015 (ES6) | Mínimo | Técnico | Fácil | v2 | 
